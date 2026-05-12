@@ -1,0 +1,13 @@
+{"question": "What is Retrieval Augmented Generation (RAG)?", "answer": "RAG combines information retrieval with text generation by retrieving relevant documents from an external corpus and conditioning generation on this context."}
+{"question": "What causes hallucination in language models?", "answer": "Hallucination occurs when models generate text that is factually incorrect or not supported by the input context."}
+{"question": "What is LangGraph used for?", "answer": "LangGraph is used for building stateful multi-actor applications with LLMs using a graph-based abstraction with nodes and edges."}
+{"question": "How does Self-RAG differ from standard RAG?", "answer": "Self-RAG adds self-reflection tokens that allow the model to critique its own retrieval and generation steps."}
+{"question": "What vector databases are used in RAG systems?", "answer": "Vector databases like ChromaDB and FAISS store document embeddings for efficient similarity search."}
+{"question": "What is Phi-3 Mini?", "answer": "Phi-3 Mini is a 3.8 billion parameter language model by Microsoft designed for consumer hardware deployment."}
+{"question": "What evaluation metrics are used for RAG?", "answer": "Exact Match (EM) and F1 score measure answer accuracy, while hallucination rate measures unsupported claims."}
+{"question": "What is document chunking in RAG?", "answer": "Chunking splits documents into smaller segments for indexing, using strategies like fixed-size or recursive chunking with overlap."}
+{"question": "What are academic QA systems designed to do?", "answer": "Academic QA systems answer research-oriented questions using scholarly documents and generate evidence-backed answers."}
+{"question": "Why is citation validation important for NLP models?", "answer": "Citation validation is important because it ensures generated claims are supported by real sources and prevents models from inventing references."}
+{"question": "How do embedding models help semantic search?", "answer": "Embedding models convert text into dense vectors so semantically related queries and documents can be matched even when they use different wording."}
+{"question": "What is multi-hop reasoning in retrieval systems?", "answer": "Multi-hop reasoning combines information across multiple retrieved documents to answer complex questions that require several inference steps."}
+{"question": "What metrics are used to evaluate academic NLP systems?", "answer": "Academic NLP systems are evaluated with precision, recall, exact match, F1, hallucination rate, and citation accuracy."}
