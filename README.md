@@ -90,6 +90,8 @@ We build two parallel systems for the same academic QA task:
 ---
 
 ## Installation
+I have run this project on my personal laptop.
+Response generation is depends on system configuration.
 
 ### 1. Clone the repository
 
